@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**kec21/kec21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Kattastrophe
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...@kat_chudy
 - 😄 Pronouns: they/them/cy
 - ⚡ Fun fact: ...
--->
+
