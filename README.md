@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### "a model is a lie that helps you see the truth"
+
 
 Kattastrophe
 
